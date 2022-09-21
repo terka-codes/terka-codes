@@ -1,12 +1,12 @@
 <img align="right" alt="Coding" id="gif" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" />
 
-<h1>Hi, I'm Tereza 👋</h1>
+<h1>Hi, I'm Tereza</h1>
 
-<h3>A passionate frontend developer from 🇨🇿</h3>
+<h3>A passionate frontend developer</h3>
 
-- 💻 I love coding and designing web applications
-- 🌱 I’m currently learning **React, Saas, Bootstrap & Tailwind**
-- 👩‍🎨 In my free time I create digital drawings
+- 💻  I love coding and designing web applications
+- 🌱  I’m currently learning **React, Saas, Bootstrap & Tailwind**
+- 👩‍🎨  In my free time I create digital drawings
 
 <h3 align="left">Languages and Tools I use:</h3>
 <p align="left"> 
