@@ -1,16 +1,12 @@
 <h1>Hi, I'm Tereza 👋</h1>
+
+<img align="right" alt="Coding" id="gif" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" />
+
 <h3>A passionate frontend developer from Czech Republic 🇨🇿</h3>
 
 - 💻 I love coding and designing web applications
 - 🌱 I’m currently learning **React, Saas, Bootstrap & Tailwind**
 - 👩‍🎨 In my free time I create digital drawings
-
-<h3 align="left">My Socials:</h3>
-<p align="left">
-<a href="https://twitter.com/terkacodes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="terkacodes" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19300680" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19300680" height="30" width="40" /></a>
-<a href="https://hashnode.com/@terkacodes" target="_blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647152709324/BgqHEiR8w.png" alt="@terkacodes" height="30" width="30" /></a>
-<a href="https://codepen.io/terka-codes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="terka-codes" height="30" width="40" /></a> </p>
 
 <h3 align="left">Languages and Tools I use:</h3>
 <p align="left"> 
@@ -28,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=terka-codes&theme=dark&show_icons=true&locale=en&layout=compact" alt="terka-codes" width="400px"/></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=terka-codes&theme=dark&show_icons=true&locale=en" alt="terka-codes" width="400px" /></p>
+
+[Source of the GIF](https://cz.pinterest.com/pin/630363279101958553/?nic_v3=1a2k3MrI7)
