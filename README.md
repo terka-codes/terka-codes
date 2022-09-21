@@ -1,17 +1,18 @@
-<h1>Hi 👋, I'm Tereza</h1>
-<h3>A passionate frontend developer from Czech Republic</h3>
+<h1>Hi, I'm Tereza 👋</h1>
+<h3>A passionate frontend developer from Czech Republic 🇨🇿</h3>
 
+- 💻 I love coding and designing web applications
 - 🌱 I’m currently learning **React, Saas, Bootstrap & Tailwind**
+- 👩‍🎨 In my free time I create digital drawings
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Socials:</h3>
 <p align="left">
-<a href="https://codepen.io/terka-codes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="terka-codes" height="30" width="40" /></a>
 <a href="https://twitter.com/terkacodes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="terkacodes" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19300680" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19300680" height="30" width="40" /></a>
 <a href="https://hashnode.com/@terkacodes" target="_blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647152709324/BgqHEiR8w.png" alt="@terkacodes" height="30" width="30" /></a>
-</p>
+<a href="https://codepen.io/terka-codes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="terka-codes" height="30" width="40" /></a> </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I use:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
