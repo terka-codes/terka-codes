@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Tereza</h1>
 
-<h3>A passionate frontend developer</h3>
+<h3>A passionate front-end developer</h3>
 
 - 💻  I love coding and designing web applications
 - 🌱  I’m currently learning **React, Saas, Bootstrap & Tailwind**
