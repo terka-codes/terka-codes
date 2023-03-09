@@ -6,7 +6,7 @@
 
 - 💻  I love coding and designing web applications
 - 🌱  I’m currently learning **React, Saas, Bootstrap & Tailwind**
-- 👩‍🎨  In my free time I create digital drawings ✏️
+- 👩‍🎨 In my free time, besides coding, I create digital drawings ✏️
 
 <h3 align="left">Languages and Tools I use:</h3>
 <p align="left"> 
