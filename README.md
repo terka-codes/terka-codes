@@ -26,8 +26,8 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=terka-codes&theme=dark&show_icons=true&locale=en&layout=compact" alt="terka-codes" width="400px"/></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=terka-codes&theme=dark&show_icons=true&locale=en&layout=compact" alt="terka-codes" width="400px"/></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=terka-codes&theme=dark&show_icons=true&locale=en" alt="terka-codes" width="410px" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=terka-codes&theme=dark&show_icons=true&locale=en" alt="terka-codes" width="410px" /></p>
 
 [Source of the GIF](https://cz.pinterest.com/pin/630363279101958553/?nic_v3=1a2k3MrI7)
