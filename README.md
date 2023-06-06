@@ -1,7 +1,7 @@
-<img align="right" alt="Coding" id="gif" width="380" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" />
+<!-- <img align="right" alt="Coding" id="gif" width="380" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" /> -->
 
 <h1>Hi, I'm Tereza</h1>
-
+<!--
 <h3>A passionate front-end developer</h3>
 
 - 💻  I love coding and designing web applications 
@@ -30,4 +30,5 @@
 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=terka-codes&theme=dark&show_icons=true&locale=en" alt="terka-codes" width="410px" /></p>
 
+<!--
 [Source of the GIF](https://cz.pinterest.com/pin/630363279101958553/?nic_v3=1a2k3MrI7)
